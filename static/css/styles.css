@@ -1,0 +1,41 @@
+body {
+    background: skyblue;
+    color: #333;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+p {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+.for_slick_slider {
+    display: flex;
+}
+
+.for_slick_slider .items {
+    width: 350px;
+    height: 350px;
+    margin: 150px;
+}
+
+.for_slick_slider .items img {
+    width: 350px;
+    height: 350pxt;
+    margin: 150px;
+    transition: linear .4s;
+}
+
+.for_slick_slider .slick-center img {
+    transform: scale(1.2);
+}
+
+
+/* #jumbotron {
+    padding-left: 20px;
+    padding-right: 20px;
+} */
